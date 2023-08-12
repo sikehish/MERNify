@@ -12,3 +12,6 @@ fn main() {
     let args = Cli::from_args();
     println!("Path: {:?}", args.path);
 }
+
+//Run command: cargo run -- pathname
+
